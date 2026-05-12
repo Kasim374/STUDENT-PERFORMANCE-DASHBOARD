@@ -4,10 +4,9 @@
 This Power BI project transforms raw retail transaction data into an interactive intelligence hub. It provides an end-to-end view of business health, combining descriptive analytics (what happened) with diagnostic and predictive insights (why it happened and what’s next).
 
 ##  Key Features
-* **Executive KPI Summary**: Instant visibility into Total Revenue (**$229.19K**), transaction volumes, and average order values.
+* **Executive KPI Summary**: Instant visibility into Total Revenue (**$844.02K**), transaction volumes, and average order values.
 * **Customer Segmentation**: Dynamic classification of customers into **High-Value**, **Standard**, and **Basic** tiers based on purchasing behavior.
-* **Regional Performance Matrix**: Interactive map and bar visuals identifying the **East Region** as the primary revenue driver ($59.29K).
-* **Product Vertical Analysis**: Deep-dive into category performance, highlighting **Electronics** as the dominant sector ($171.76K).
+* **Regional Performance Matrix**: Interactive map and bar visuals identifying the **East Region** as the primary revenue driver ($194.45K).
 * **Trend Intelligence**: Time-series analysis showing seasonal peaks (January) and monthly fluctuations.
 
 ##  Data Engineering & Modeling
