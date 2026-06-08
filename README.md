@@ -2,10 +2,10 @@
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Student Dashboard](student_dashboard.png)
+![Student Dashboard](student%20dashboard.png)
 
 ### Student Profile Dashboard
-![Student Profile](student_profile.png)
+![Student Profile](student%20profile.png)
 
 ## 📌 Project Overview
 The Student Performance Dashboard is an interactive Power BI project designed to monitor and analyze student academic performance, attendance, and behavioral records. The dashboard enables educators and administrators to gain valuable insights into student outcomes and identify trends for better decision-making.
